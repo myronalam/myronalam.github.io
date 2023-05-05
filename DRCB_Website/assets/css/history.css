@@ -1,0 +1,6 @@
+/* Custom padding for the photo cards so they have space*/
+
+.col-sm-6 {
+    padding: 1rem;
+  }
+  
